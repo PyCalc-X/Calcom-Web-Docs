@@ -1,8 +1,6 @@
 ## Calcom Web Documentation
 
-You can use the [editor on GitHub](https://github.com/PyCalc-X/Calcom-Web-Docs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Calcom Web is the next leap towards making computation even better with Calcom. As can be guessed from the name, Calcom Web is the web version of Calcom powered by Next.Tech, a Plurasight Company. 
 
 ### Markdown
 
