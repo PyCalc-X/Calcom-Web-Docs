@@ -1,4 +1,4 @@
-## Calcom Web Documentation
+## Introduction
 
 Calcom Web is the next leap towards making computation even better with Calcom. As can be guessed from the name, Calcom Web is the web version of Calcom powered by Next.Tech, a Plurasight Company. 
 
