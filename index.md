@@ -2,6 +2,8 @@
 
 Calcom Web is the next leap towards making computation even better with Calcom. As can be guessed from the name, Calcom Web is the web version of Calcom powered by Next.Tech, a Plurasight Company. 
 
+The following documentation involves how to access Calcom Web including some use cases.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
