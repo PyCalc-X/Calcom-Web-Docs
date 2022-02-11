@@ -1,37 +1,16 @@
 ## Documentation
 
-Calcom Web is the next leap towards making computation even better with Calcom. As can be guessed from the name, Calcom Web is the web version of Calcom powered by Next.Tech, a Plurasight Company. 
+Calcom Web is the next leap towards making computation even better with Calcom. As can be guessed from the name, Calcom Web is the web version of Calcom built on top of Gitpod and powered by Amazon Web Services.
 
-The following documentation involves how to access Calcom Web including some use cases.
 
-### Markdown
+### Using the Web version of Calcom
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Log in button will redirect the user to Gitpod where Calcom Web is present. Once the window opens a **Browser window** will open (for displaying GUIs) and the user wil be prompted about the fact that there is a service open on port 5090. Users may ignore this message. For best experience open the earlier mentioned **browser window** on a separate tab using the Redirect button at the top right corner or copy pasting the link to a separate tab. The next step is to move to the terminal window and type the following command:
 
-```markdown
-Syntax highlighted code block
+```./run.sh```
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PyCalc-X/Calcom-Web-Docs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+After all the required configurations are done, Calcom Web will automatically start. All the GUIs will be displayed in the browser window so be sure to view that as well while using Calcom.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble? Reach out to us at [support@pycalc.com] and we will help you out! 
