@@ -1,6 +1,6 @@
 ## Documentation
 
-Calcom Web is the next leap towards making computation even better with Calcom. As can be guessed from the name, Calcom Web is the web version of Calcom built on top of Gitpod and powered by Amazon Web Services.
+Calcom Web is the next leap towards making computation even better with Calcom. As can be guessed from the name, Calcom Web is the web version of Calcom, which is a fast and efficient computational tool designed from students and educators and packed with a lot of features that indeed make computation simplified!
 
 
 ### Using the Web version of Calcom
@@ -11,6 +11,6 @@ The Log in button will redirect the user to Gitpod where Calcom Web is present. 
 
 After all the required configurations are done, Calcom Web will automatically start. All the GUIs will be displayed in the browser window so be sure to view that as well while using Calcom.
 
-### Support or Contact
+### Sponsors
 
-Having trouble? Reach out to us at [support@pycalc.com] and we will help you out! 
+--
