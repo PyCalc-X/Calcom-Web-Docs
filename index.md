@@ -1,4 +1,4 @@
-## Documentation
+## About
 
 Calcom Web is the next leap towards making computation even better with Calcom. As can be guessed from the name, Calcom Web is the web version of Calcom, which is a fast and efficient computational tool designed from students and educators and packed with a lot of features that indeed make computation simplified!
 
@@ -11,6 +11,8 @@ The Log in button will redirect the user to Gitpod where Calcom Web is present. 
 
 After all the required configurations are done, Calcom Web will automatically start. All the GUIs will be displayed in the browser window so be sure to view that as well while using Calcom.
 
-### Sponsors
+### Sponsor
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WolframCorporateLogo.svg/1200px-WolframCorporateLogo.svg.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WolframCorporateLogo.svg/1200px-WolframCorporateLogo.svg.png">
+</p>  
