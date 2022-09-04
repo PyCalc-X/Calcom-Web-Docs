@@ -14,5 +14,5 @@ After all the required configurations are done, Calcom Web will automatically st
 ### Sponsor
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WolframCorporateLogo.svg/1200px-WolframCorporateLogo.svg.png">
+  <img src="https://sagex.ph.qmul.ac.uk/wp-content/uploads/2018/11/wolfram-logo.png">
 </p>  
